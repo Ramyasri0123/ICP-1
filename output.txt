@@ -1,0 +1,7 @@
+Input:
+machine learning
+deep learning
+Word_Count:
+deep: 1
+learning: 2
+machine: 1
